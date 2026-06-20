@@ -1,0 +1,13 @@
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.csproj.AssemblyReference.cache
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.Properties.Resources.resources
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.RegisterForm.resources
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.csproj.GenerateResource.cache
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\bin\Debug\OnlineVotingSystem.exe.config
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\bin\Debug\OnlineVotingSystem.exe
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\bin\Debug\OnlineVotingSystem.pdb
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.exe
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.pdb
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.LoginForm.resources
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.ThankYouForm.resources
+C:\Users\Harshith shetty\Documents\C#Projects\OnlineVotingSystem\OnlineVotingSystem\obj\Debug\OnlineVotingSystem.VoteForm.resources
